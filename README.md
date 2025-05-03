@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Meu nome é Ewerton, sou desenvolvedor Front-End, tenho projetos desenvolvidos com as técnologias:
+ Meu nome é Ewerton, sou desenvolvedor Full-Stack, tenho projetos desenvolvidos com as técnologias:
 <br>
 <br>
  -	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo"/>
